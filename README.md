@@ -1,4 +1,4 @@
-### Olá, Seja bem-vinde!
+### Olá, Seja bem-vind0!
 
 - 📝 Graduando em Análise e Desenvolvimento de Sistemas 
 - 💻 Estudando  PHP|React
