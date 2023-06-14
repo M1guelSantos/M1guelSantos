@@ -1,7 +1,6 @@
 ### Olá, Seja bem-vindo!
 
 - 📝 Graduando em Análise e Desenvolvimento de Sistemas 
-- 💻 Estudando  PHP|React
 ##
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1guelSantos&layout=compact&langs_count=7&theme=tokyonight"/>
 
