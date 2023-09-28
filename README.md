@@ -13,6 +13,6 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> 
 </div>
 
-![Snake animation](https://github.com/M1guelSantos/M1guelSantos/blob/output/github-contribution-grid-snake.svg)
 
+![Snake animation](https://github.com/M1guelSantos/M1guelSantos/blob/output/github-contribution-grid-snake.svg)
 
