@@ -14,4 +14,4 @@
 </div>
 
 
-![Snake animation](https://github.com/M1guelSantos/M1guelSantos/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/M1guelSantos/M1guelSantos/blob/output/github-contribution-grid-snake.svg)
