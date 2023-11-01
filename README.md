@@ -2,9 +2,7 @@
 
 - 📝 Graduando em Análise e Desenvolvimento de Sistemas <br>
   
-Buscando minha primeira oportunidade na área do desenvolvimento web, com foco em backend. <br> 
-Nos últimos dias tenho me apaixonado por tecnologia e programação a cada dia, e essa paixão tem me motivado a melhorar e buscar mais conhecimento. <br>
-Estarei me especializando todos os dias, até que eu consiga uma empresa onde possa colocar em prática todo aprendizado, evoluindo assim como profissional e eventualmente ajudando no crescimento da instituição.
+Buscando minha primeira oportunidade na área do desenvolvimento web, com foco em backend. Nos últimos dias tenho me apaixonado por tecnologia e programação a cada dia, e essa paixão tem me motivado a melhorar e buscar mais conhecimento. Estarei me especializando todos os dias, até que eu consiga uma empresa onde possa colocar em prática todo aprendizado, evoluindo assim como profissional e eventualmente ajudando no crescimento da instituição.
 
 #### 💌 Redes Sociais 💌
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-dos-santos-alves-barros-38210524a/)
