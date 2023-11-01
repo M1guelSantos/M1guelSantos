@@ -1,4 +1,4 @@
-### Olá, Seja bem-vindo!
+# Olá, seja bem vindo ao meu perfil!💫👋
 
 - 📝 Graduando em Análise e Desenvolvimento de Sistemas
 - Buscando minha primeira oportunidade na área do desenvolvimento web, com foco em backend. <br>
