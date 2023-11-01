@@ -2,7 +2,7 @@
 
 - 📝 Graduando em Análise e Desenvolvimento de Sistemas
 - Buscando minha primeira oportunidade na área do desenvolvimento web, com foco em backend. <br>
-- Nos últimos dias tenho me apaixonado por tecnologia e programação a cada dia, e essa paixão tem me motivado a melhorar e buscar mais conhecimento. 
+ Nos últimos dias tenho me apaixonado por tecnologia e programação a cada dia, e essa paixão tem me motivado a melhorar e buscar mais conhecimento. 
 ##
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1guelSantos&layout=compact&langs_count=7&theme=tokyonight"/>
 
