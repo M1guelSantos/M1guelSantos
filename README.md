@@ -4,7 +4,7 @@
 - 💻 NodeJs, Express e ReactJs 
 
 #### 🎯 Objetivos:
-Buscando minha primeira oportunidade na área do desenvolvimento web, com foco em backend ou Full Stack. Nos últimos dias tenho me apaixonado por tecnologia e programação a cada momento que passa, e essa paixão tem me motivado a melhorar e buscar mais conhecimento. Minha evolução se torna nítida a cada dia e com isso estrou preparado para novos desafios!
+Buscando minha primeira oportunidade na área do desenvolvimento web, com foco em backend ou Full Stack. Nos últimos dias tenho me apaixonado por tecnologia e pela programação a cada momento que passa, e essa paixão tem me impulsionado a melhorar e buscar cada vez mais conhecimento. Minha evolução se torna nítida a cada dia e com isso estou preparado para novos desafios!
 
 #### 💌 Redes sociais: 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-dos-santos-alves-barros-38210524a/)
