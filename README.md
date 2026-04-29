@@ -1,6 +1,6 @@
 # Olá, seja bem vindo ao meu perfil!💫👋
 
-- 📝 Graduando em Análise e Desenvolvimento de Sistemas <br>
+- 📝 Formado em Análise e Desenvolvimento de Sistemas <br>
 - 💻 NodeJs, PHP, Express e ReactJs 
 
 #### 🎯 Objetivos:
